@@ -26,19 +26,18 @@ li {
 .main {
   padding: 100px 80px;
 }
-.copy-container{
-   background-color:#808080;
 
-}
 
 .copy-container h1 {
   font-size: 80px;
   color : #fff;
+  background-color:#808080;
 }
 
 .copy-container h2 {
   font-size: 40px;
   color : #fff;
+  background-color:#808080;
 }
 
 .copy-container span {
