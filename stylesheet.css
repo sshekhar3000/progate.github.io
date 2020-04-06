@@ -27,18 +27,18 @@ li {
   padding: 100px 80px;
 }
 .copy-container{
-   background-image: url("progate.github.io/DSC_4169 copy.jpg");
+   background-image = url("‪C:\Users\SSHEKHAR\Desktop\DSC_4169 copy.jpg");
 
 }
 
 .copy-container h1 {
   font-size: 80px;
-  color : #fff
+  color : #fff;
 }
 
 .copy-container h2 {
   font-size: 40px;
-  color : #fff
+  color : #fff;
 }
 
 .copy-container span {
